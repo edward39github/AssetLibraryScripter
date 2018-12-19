@@ -1,0 +1,131 @@
+{
+    "Albedo": [
+        "Diffuse",
+        "diffuseColor",
+        "color",
+        "BaseColor",
+        "albedo",
+        "base_color",
+        "basecolor",
+        "baseColor",
+        "BC",
+        "Diff",
+        "diff",
+        "COLOR",
+        "BASE_COLOR",
+        "DIFF",
+        "DIFFUSE",
+        "ALBEDO"
+    ],
+    "ColorVar1": [
+        "COL_VAR1"
+    ],
+    "ColorVar2": [
+        "COL_VAR2"
+    ],
+    "ColorVar3": [
+        "COL_VAR3"
+    ],
+    "ColorVar4": [
+        "COL_VAR4"
+    ],
+    "ColorVar5": [
+        "COL_VAR5"
+    ],
+    "Displacement": [
+        "Height",
+        "height",
+        "HEIGHT",
+        "DISPLACEMENT",
+        "DISP"
+    ],
+    "Glossiness": [
+        "Gloss",
+        "gloss",
+        "glossiness"
+    ],
+    "NormalDetail": [
+        "NormalBump",
+        "normalBump",
+        "normalDetail",
+        "detailNormal",
+        "detailsNormal",
+        "normal_details",
+        "normal_detail",
+        "detail_normal",
+        "details_normal"
+    ],
+    "Normal": [
+        "Normal",
+        "normal",
+        "NORMAL"
+    ],
+    "Opacity": [
+        "Alpha",
+        "Transparency",
+        "Transparent",
+        "Mask",
+        "opacity",
+        "alpha",
+        "transparency",
+        "transparent",
+        "mask"
+    ],
+    "Roughness": [
+        "Rough",
+        "roughness",
+        "rough"
+    ],
+    "Specular": [
+        "Spec",
+        "Reflection",
+        "specular",
+        "reflection",
+        "spec",
+        "refl",
+        "REFL"
+    ],
+    "Metallic": [
+        "Metal",
+        "Metall",
+        "metal",
+        "metall",
+        "METALLIC",
+        "METAL",
+        "METALL"
+    ],
+    "IOR": [
+        "Refract",
+        "Refraction",
+        "refraction",
+        "refract"
+    ],
+    "SSS": [
+        "Translucency",
+        "translucent"
+    ],
+    "Cavity": [
+        "cavity",
+        "Curvature",
+        "curvature"
+    ],
+    "AO": [
+        "AmbientOcclusion",
+        "Ambient_Occlusion",
+        "Ambient",
+        "Occlusion",
+        "ambientOcclusion",
+        "ambient",
+        "occlusion"
+    ],
+    "Thickness": [
+        "Thin",
+        "Thick",
+        "thickness",
+        "thin",
+        "thick"
+    ],
+    "Anisotropic": [
+        "anisotropic"
+    ]
+}

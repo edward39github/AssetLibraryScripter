@@ -1,0 +1,14 @@
+{
+    "Displacement": ["DISP16", "DISP"],
+    "AlphaMasked": ["ALPHAMASKED"],
+    "AO": ["AO"],
+    "Color": ["COL"],
+    "Glossiness": ["GLOSS"],
+    "Metal": ["METALNESS"],
+    "Normal": ["NRM16", "NRM"],
+    "ID": ["IDMAP, OBJECTID"],
+    "Specular": ["REFL"],
+    "Roughness": ["ROUGHNESS"],
+    "SSS": ["SSS"],
+    "Overlay": ["OVERLAY"]
+}
